@@ -158,5 +158,5 @@ MIT-style / as appropriate for your use — adjust as needed.
 
 ---
 
-Feel free to ask me anything you want if you user my app! 
+Feel free to ask me anything you want if you use my app! 
 
