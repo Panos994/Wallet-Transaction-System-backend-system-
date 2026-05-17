@@ -158,10 +158,5 @@ MIT-style / as appropriate for your use — adjust as needed.
 
 ---
 
-If you want, I can also:
-- Add example curl/Postman requests for all endpoints
-- Create a small Postman collection and include it in the repo
-- Add a health-check endpoint and README badge
-
-Feel free to ask which of the above you'd like next.
+Feel free to ask me anything you want if you user my app! 
 
